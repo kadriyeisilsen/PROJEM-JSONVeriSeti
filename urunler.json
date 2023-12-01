@@ -1,0 +1,44 @@
+[
+  {
+    "isim": "A Ürünü",
+    "marka": "A Markası",
+    "renk": "Yeşil renk",
+    "fiyat": "A TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/aharf.png"
+  },
+  {
+    "isim": "B Ürünü",
+    "marka": "B Markası",
+    "renk": "Mavi renk",
+    "fiyat": "B TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/bharf.png"
+  },
+  {
+    "isim": "C Ürünü",
+    "marka": "C Markası",
+    "renk": "Mor renk",
+    "fiyat": "C TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/charf.png"
+  },
+  {
+    "isim": "D Ürünü",
+    "marka": "D Markası",
+    "renk": "Gri renk",
+    "fiyat": "D TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/dharf.png"
+  },
+  {
+    "isim": "E Ürünü",
+    "marka": "E Markası",
+    "renk": "Turkuaz renk",
+    "fiyat": "E TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/eharf.png"
+  },
+  {
+    "isim": "F Ürünü",
+    "marka": "F Markası",
+    "renk": "Pembe renk",
+    "fiyat": "F TL",
+    "gorsel": "https://github.com/kadriyeisilsen/PROJEM-JSONVeriSeti/blob/main/fharf.png"
+  }
+]
